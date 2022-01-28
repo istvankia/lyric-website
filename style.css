@@ -2,9 +2,16 @@
     font-family:"Licorice", sans-serif;
     font-size: 50px;
     margin-bottom:0px;
-    color:rgb(209, 8, 8);
+    color:rgb(8, 6, 6);
     font-weight: bold;
     }
+#home-art{
+        font-family:"Licorice", sans-serif;
+        font-size: 50px;
+        margin-bottom:0px;
+        color:rgb(209, 8, 8);
+        font-weight: bold;
+        }   
 
 #pron{
     font-family:"Raleway", sans-serif;
@@ -79,6 +86,17 @@ a.navlink:visited{
 .col-3a{width:28.33%;float:left;text-align:center;margin-left:-70px;}
 .col-3b{width:38.33%;float:left;text-align:center;}
 .col-3c{width:33.33%;float:left;text-align:center;}
+.tears-1{width:28.33%;float:left;text-align:center;margin-left:-0px;}
+.sorry1{width:28.33%;float:left;text-align:center;margin-left:-0px;}
+.sorry2{width:38.33%;float:left;text-align:center;margin-left:35px;}
+.sorry3{width:33.33%;float:left;text-align:center;margin-left:-179px;}
+.dot3{width:33.33%;float:left;text-align:center;margin-left:20px;}
+.love3{width:33.33%;float:left;text-align:center;margin-left:-40px;}
+.girl2{width:33.33%;float:left;text-align:center;margin-left:-40px;}
+.girl3{width:33.33%;float:left;text-align:center;margin-left:40px;}
+.where1{width:33.33%;float:left;text-align:center;margin-left:-80px;}
+.where2{width:33.33%;float:left;text-align:center;margin-left:20px;}
+.where3{width:33.33%;float:left;text-align:center;margin-left:0px;}
 body{
 /*background-image: url("images/back.webp"); */
 background-color: gray;
@@ -104,7 +122,7 @@ background-color: gray;
 }
 
 pre{
-    color:rgb(209, 8, 8);
+    color:rgb(8, 6, 6);
     font-size:18px;
     text-align:justify;
     font-weight:bold;
@@ -112,3 +130,8 @@ pre{
 .video{
     align-content: center;
 }
+.language{
+    float:right;
+    text-align: center;
+    
+    }
